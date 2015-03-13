@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class Exercise1 {	
 	private static void cprint(String string) {
 		System.out.println(string);		
